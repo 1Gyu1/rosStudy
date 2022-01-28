@@ -1,2 +1,2 @@
-set(my_code_MESSAGE_FILES "/home/masang/catkin_ws/src/my_code/msg/Complex.msg")
+set(my_code_MESSAGE_FILES "/home/masang/catkin_ws/src/my_code/msg/Complex.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerAction.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerActionGoal.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerActionResult.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerActionFeedback.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerGoal.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerResult.msg;/home/masang/catkin_ws/devel/share/my_code/msg/TimerFeedback.msg")
 set(my_code_SERVICE_FILES "/home/masang/catkin_ws/src/my_code/srv/WordCount.srv")
